@@ -1,1 +1,1 @@
-reverse_each_word = "olleH ,ereht dna woh era ?ouy"
+reverse_each_word(sentence1) = "olleH ,ereht dna woh era ?ouy"
