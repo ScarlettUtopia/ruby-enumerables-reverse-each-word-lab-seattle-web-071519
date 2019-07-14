@@ -1,0 +1,1 @@
+reverse_each_word = "olleH ,ereht dna woh era ?ouy"
